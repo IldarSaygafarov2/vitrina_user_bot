@@ -7,4 +7,4 @@ load_dotenv()
 
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
-print(BOT_TOKEN)
+WEB_APP_URL = os.getenv('WEB_APP_URL')
